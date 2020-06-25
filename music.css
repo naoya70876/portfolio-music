@@ -202,6 +202,24 @@ footer{
     left:5px;
     z-index: ;
 }
+.fa-twitter{
+    color:rgb(255, 255, 255);
+    position:absolute;
+    top:9px;
+    left:170px;
+}
+.fa-instagram{
+    color:rgb(255, 255, 255);
+    position:absolute;
+    top:9px;
+    left:200px;
+}
+.fa-envelope{
+    color:rgb(255, 255, 255);
+    position:absolute;
+    top:9px;
+    left:230px;
+}
 
 /*responsive design用*/
 
